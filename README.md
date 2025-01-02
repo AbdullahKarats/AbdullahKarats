@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Android Developer</h3>
 
+- 📫 How to reach me **abdullahkaratas2002@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdullah-karatas-a3aaa1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-karatas-a3aaa1223" height="30" width="40" /></a>
